@@ -11,7 +11,7 @@ An advanced AI-powered health and safety monitoring system designed to detect li
 
 Language: Kotlin
 - UI Framework: Jetpack Compose (Modern declarative UI)
-- Camera: Android CameraX
+- Camera: Android Camera
 - AI Engine: Google MediaPipe
 - Architecture: MVVM (Model-View-ViewModel)
 - Networking: Retrofit (for Telegram API communication)
