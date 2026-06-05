@@ -18,3 +18,5 @@ Language: Kotlin
 - Concurrency: Kotlin Coroutines & Flow
 
 <img width="1148" height="708" alt="image" src="https://github.com/user-attachments/assets/67274314-158b-4c5f-974c-8a9e2df9e66e" />
+
+Project recap: https://youtu.be/gYV1OFCF5U8
